@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c8e2452f.css","mappings":"AAKA,WAEI,YAAa,CACb,eAAgB,CAFhB,WAIJ","sources":["index.css"],"sourcesContent":["body {\r\n    width: 100vw;\r\n    height: 100vh;\r\n    overflow: hidden;\r\n}\r\n.main {\r\n    width: 100vw;\r\n    height: 100vh;\r\n    overflow: hidden;\r\n\r\n}"],"names":[],"sourceRoot":""}
